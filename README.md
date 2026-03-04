@@ -74,10 +74,12 @@ The dashboard includes analysis of:
 └── README.md
 
 ## 🖼 Dashboard Preview
-<img width="900" alt="Customer Insights Dashboard" src="https://github.com/user-attachments/assets/e496b8a8-e6a1-4786-957f-edf4b1da865f" />
-https://github.com/lakshman-nanchari/ecommerce-sales-customer-insights-powerbi/blob/main/images/Performance_Overview.png
----
 
+### Performance Overview
+<img width="1000" alt="Performance Overview Dashboard" src="https://raw.githubusercontent.com/lakshman-nanchari/ecommerce-sales-customer-insights-powerbi/main/images/Performance_Overview.png">
+
+### Customer Insights
+<img width="900" alt="Customer Insights Dashboard" src="https://github.com/user-attachments/assets/e496b8a8-e6a1-4786-957f-edf4b1da865f" />
 ## 🚀 How to Use
 
 1. Clone the repository
