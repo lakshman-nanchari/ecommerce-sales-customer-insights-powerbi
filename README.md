@@ -75,7 +75,7 @@ The dashboard includes analysis of:
 
 ## 🖼 Dashboard Preview
 <img width="900" alt="Customer Insights Dashboard" src="https://github.com/user-attachments/assets/e496b8a8-e6a1-4786-957f-edf4b1da865f" />
-
+https://github.com/lakshman-nanchari/ecommerce-sales-customer-insights-powerbi/blob/main/images/Performance_Overview.png
 ---
 
 ## 🚀 How to Use
